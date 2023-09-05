@@ -1,6 +1,16 @@
-# portifolio-pessoal
+# índice
+[Projeto de portifólio pessoal]()
+[Descrição]()
+[Introdução]()
+[Funcionalidades]()
+[Tecnologias utilizadas]()
+[Fontes consultadas]()
+[Autores]()
 
-Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do Bootstrap.
+
+# Projeto de portifólio pessoal
+
+Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README.
 
 ## Descrição
 
@@ -10,6 +20,6 @@ Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do
 
 ### Tecnologias utilizadas
 
-## Fontes utilizadas 
+## Fontes consultadas
 
 ## Autores
