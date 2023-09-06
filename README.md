@@ -10,7 +10,9 @@
 
 # Projeto de portifólio pessoal
 
-Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README.
+![Imagem da página inicial](img/capa.png)
+
+Projeto criado utilizando Bootstrap para ensino de uso do README.
 
 ## Descrição
 
