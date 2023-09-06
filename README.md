@@ -15,12 +15,22 @@ Projeto criado utilizando Bootstrap para ensino de uso do README.
 
 ## Descrição
 
+
+
 ## Introdução
 
 ## Funcionalidades
 
 ### Tecnologias utilizadas
 
+Neste projetos tivemos o uso de HTML, CSS, Bootstrap, Git, Git Hub.
+
 ## Fontes consultadas
 
+Ao decorrer do desenvolvimento consultei alguns links para me ajudar na criação do README, são eles:
+link1:
+link2:
+
 ## Autores
+
+Sarah Ozeto
