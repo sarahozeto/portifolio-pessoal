@@ -7,7 +7,6 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
-
 # Projeto de portifólio pessoal
 
 ![Imagem da página inicial](img/capa.png)
