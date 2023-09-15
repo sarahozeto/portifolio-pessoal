@@ -1,23 +1,18 @@
 # índice
-[Projeto de portifólio pessoal](#projeto-de-portif%C3%B3lio-pessoal)  
+[Projeto de portifólio pessoal]()
 [Descrição](#descri%C3%A7%C3%A3o)  
-[Introdução](#introdu%C3%A7%C3%A3o)  
 [Funcionalidades](#funcionalidades)  
 [Tecnologias utilizadas](#tecnologias-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
-# Projeto de portifólio pessoal
+# Projeto de Portifólio Pessoal - Introdução
 
 ![Imagem da página inicial](img/capa.png)
 
-Projeto criado utilizando Bootstrap para ensino de uso do README.
+Usando as tecnologias do HTML, construimos um projeto com o uso de Bootstrap com o objetivo de treinar o uso do README. 
 
 ## Descrição
-
-
-
-## Introdução
 
 ## Funcionalidades
 
