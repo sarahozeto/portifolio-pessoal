@@ -14,9 +14,7 @@ Usando as tecnologias do HTML, construimos um projeto com o uso de Bootstrap com
 
 ## Descrição
 
-Para aprender como trabalhar com bootstrap, usamos um modelo pronto de boostrap que serve para páginas iniciais, apenas isso. Apartir dele, usamos GIT e GITHUB...
-
-## Funcionalidades
+Para aprender como trabalhar com bootstrap, usamos um modelo pronto de boostrap que serve para páginas iniciais, apenas isso. Apartir dele, usamos as tecnologias do HTML para traduzir e modificar o site. 
 
 ### Tecnologias utilizadas
 Neste projetos tivemos o uso de:
