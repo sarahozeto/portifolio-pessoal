@@ -29,9 +29,12 @@ Neste projetos tivemos o uso de:
 ## Fontes consultadas
 
 Ao decorrer do desenvolvimento consultei alguns links para me ajudar na criação do README, são eles:
-link1: https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89  
-link2: https://www.alura.com.br/artigos/escrever-bom-readme  
-link3: --site do modelo do bootstrap
+Inspiração para o readme:
+https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89  
+Base para escrever o readme:
+https://www.alura.com.br/artigos/escrever-bom-readme  
+Modelo do bootstrap:
+ https://getbootstrap.com/docs/5.0/examples/
 
 ## Autores
 
